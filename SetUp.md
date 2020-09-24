@@ -31,7 +31,7 @@ curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorizat
 
 ## Vercel
 
-* Register on [Vercel](https://vercel.com/)
+* Register on Vercel
 
 * Fork this repo, then create a vercel project linked to it
 
